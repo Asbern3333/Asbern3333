@@ -1,5 +1,4 @@
 ### Hi there 👋
-### I am From 🇸🇾 I live in 🇺🇸
 ## 😊  I am happy you went to my profile
 ### 👨‍💻 I am a computer science student at CSI and a full stack developer at ttp
 # I’m currently working on a capstone project in ttp

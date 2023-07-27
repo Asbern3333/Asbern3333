@@ -1,6 +1,6 @@
 ### Hi there 👋
-## 😊 
-### 👨‍💻
+## 😊  I am happy you went to my profile
+### 👨‍💻 I am computer science student at CSI and full stack developer at ttp
 <!--
 **Asbern3333/Asbern3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

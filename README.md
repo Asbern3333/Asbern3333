@@ -3,7 +3,7 @@
 ### 👨‍💻 I am a computer science student at CSI and a full stack developer at ttp
 ### I’m currently working on a capstone project in ttp
 ### I’m currently learning React, node.js, express.js, and Postgresql
-### I made a game called game-chicken-in-space in Git Hub if you want to see it I made it in CSC 330 Object-oriented class.
+### 🎮  There is a game-chicken-in-space in here if you want to see it. I made it in CSC 330 Object-oriented class.
 <!--
 **Asbern3333/Asbern3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

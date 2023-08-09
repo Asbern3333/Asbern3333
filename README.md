@@ -1,5 +1,4 @@
 ### Hi there 👋
-### 😊  I am happy you went to my profile
 ### 👨‍💻 I am a computer science student at CSI and a full stack developer at ttp
 ### I’m currently working on a capstone project in ttp
 ### I’m currently learning React, node.js, express.js, and Postgresql

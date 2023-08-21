@@ -1,8 +1,10 @@
 ### Hi there 👋
 ### 👨‍💻 I am a computer science student at CSI and a full stack developer at ttp
-### I’m currently working on a capstone project in ttp
-### I’m currently learning React, node.js, express.js, and Postgresql
+### I finished the capstone project in ttp
+### I’m Learned React, JS, HTML, CSS, Nodejs, Express, PostgreSQL, TailWind in the TTP_Boot_Camp
+### I took College of Staten Island the classes(Data structure, algorithm, Object-oriented, Database, )
 ### 🎮  There is a game-chicken-in-space in here if you want to see it. I made it in CSC 330 Object-oriented class.
+### Also, There is a CApstone project It was my team project for the TTP
 <!--
 **Asbern3333/Asbern3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

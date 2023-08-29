@@ -6,6 +6,7 @@
 ### I will take in my next semester AI and Gaming Programing. 
 ### 🎮  There is a game-chicken-in-space in here if you want to see it. I made it in CSC 330 Object-oriented class.
 ### Also, There is a CApstone project It was my team project for the TTP
+### I am looking for a job in computer science because I have not internship
 <!--
 **Asbern3333/Asbern3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

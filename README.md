@@ -7,7 +7,7 @@
 ### 🎮  There is a game-chicken-in-space in here if you want to see it. I made it in CSC 330 Object-oriented class.
 ### 🎮 Infinte runner for class Advanced to gaming programing
 ### Also, There is a Cqpstone project It was my team project for the TTP about resturant mangmernt
-### I am looking for an internship in computer science I have already done one
+### I am looking for an internship in computer science I have already done 2 ( IT, Mobile application developer)
 <!--
 **Asbern3333/Asbern3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

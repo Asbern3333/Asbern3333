@@ -1,12 +1,13 @@
 ### Hi there 👋
-### 👨‍💻 I am a computer science student at CSI and a full stack developer at ttp
-### I finished the capstone project in ttp
-### I’m Learned React, JS, HTML, CSS, Nodejs, Express, PostgreSQL, TailWind in the TTP_Boot_Camp
-### I took College of Staten Island the classes(Data structure, algorithm, Object-oriented, Database, )
-### I will take in my next semester AI and Gaming Programing. 
+### 👨‍💻 I am a junior computer science student at CSI and finished full stack developer at ttp boot camp using pern stack
+### 🌱 I’m Learned three.js and unreal enigne
+### Some classes I have taken(Data structure, algorithm, Object-oriented, Database, Advanced to gaming programing, Artificial intelligence)
+### I will take in my next semester Software Engineering 
+## Projects
 ### 🎮  There is a game-chicken-in-space in here if you want to see it. I made it in CSC 330 Object-oriented class.
-### Also, There is a CApstone project It was my team project for the TTP
-### I am looking for a job in computer science because I have not internship
+### 🎮 Infinte runner for class Advanced to gaming programing
+### Also, There is a Cqpstone project It was my team project for the TTP about resturant mangmernt
+### I am looking for an internship in computer science I have already done one
 <!--
 **Asbern3333/Asbern3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

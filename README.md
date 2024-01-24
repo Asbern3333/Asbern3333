@@ -6,7 +6,8 @@
 ## Projects
 ### 🎮  There is a game-chicken-in-space in here if you want to see it. I made it in CSC 330 Object-oriented class.
 ### 🎮 Infinte runner for class Advanced to gaming programing
-### Also, There is a Cqpstone project It was my team project for the TTP about resturant mangmernt
+### Also, There is a Capstone project It was my team project for the TTP about resturant mangmernt
+## Exprince
 ### I am looking for an internship SWE in computer science.
 ### I have already done 2 intern ( IT, Mobile application developer)
 <!--

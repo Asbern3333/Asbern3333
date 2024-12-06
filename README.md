@@ -1,12 +1,11 @@
 ### Hi there 👋
 ### 👨‍💻 I am a Senior computer science student at CSI and finished full stack developer at ttp boot camp using pern stack
-### 🌱 I’m Learning unreal engne
-### I have taken these classes Advanced to gaming programing and Artificial intelligence
+### 🌱 I’m Learning unreal engne and doing Vertex bootcamp which I am internted in
 
 ## Projects
-### 🎮  There is a game-chicken-in-space in here if you want to see it. I made it in CSC 330 Object-oriented class.
-### 🎮 Infinte runner for class Advanced to gaming programing
-### 🎮 Zombie shooting game
+### 🎮 There is a game-chicken-in-space using Java and making my own engine
+### 🎮 Infinte runner using unity
+### 🎮 Zombie shooting game using Unreal Engine
 
 ## Exprince
 ### I did a peer mentor for College of Staten Island

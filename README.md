@@ -5,7 +5,10 @@
 ## Projects
 ### 🎮 There is a game-chicken-in-space using Java and making my own engine
 ### 🎮 Infinte runner using unity
-### 🎮 Capston is my best project
+### 🎮 Capston is my best project So far
+
+## Future
+### Making VR project
 
 ## Exprince
 ### I did a peer mentor for College of Staten Island

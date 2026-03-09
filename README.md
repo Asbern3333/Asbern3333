@@ -1,16 +1,16 @@
 ### Hi there 👋
-### 👨‍💻 I am a Senior computer science student at CSI and finished full stack developer at ttp boot camp using pern stack
+### 👨‍💻 I am a Game Dev UE main
 ### 🌱 I’m Learning unreal engne and doing Vertex bootcamp which I am internted in
 
 ## Projects
 ### 🎮 There is a game-chicken-in-space using Java and making my own engine
 ### 🎮 Infinte runner using unity
-### 🎮 Zombie shooting game using Unreal Engine
+### 🎮 Capston is my best project
 
 ## Exprince
 ### I did a peer mentor for College of Staten Island
 ### I did a backend internship with hdata.
-### other intern ( IT, Mobile application developer)
+### other Jobs ( IT, Mobile application developer)
 <!--
 **Asbern3333/Asbern3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
